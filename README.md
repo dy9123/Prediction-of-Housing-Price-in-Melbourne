@@ -3,10 +3,11 @@ In this project. We employed general non-linear regression to predict the housin
 We followed the following steps.
 1. Check the significance of the interaction terms and delete the insignificant terms
 2. Check the significance of the remaining variables without interaction effects.
-3. Regroup categorical variables.
-4. Detect outliers by looking at Cook-Distance and leverage.
-5. Check normality and perform nonlinear transformation, such as Box-Cox, Box-Tidewell or Spline method.
-6. Stepwise regression
+3. Check multicollinearity
+4. Regroup categorical variables.
+5. Detect outliers by looking at Cook-Distance and leverage.
+6. Check normality and perform nonlinear transformation, such as Box-Cox, Box-Tidewell or Spline method.
+7. Stepwise regression
 
 The description of data are here.
 
