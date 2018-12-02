@@ -9,6 +9,7 @@ We followed the following steps.
 6. Check normality and perform nonlinear transformation, such as Box-Cox, Box-Tidewell or Spline method.
 7. Stepwise regression
 
+We finally achieved R^2 of 0.8 with only 9 attributes. 
 The description of data are here.
 
 Some Key Details
